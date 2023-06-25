@@ -14,3 +14,4 @@ magazines = [
 //   "https://assessment-rss.s3.ap-south-1.amazonaws.com/india-tech.rss",
 //   "https://assessment-rss.s3.ap-south-1.amazonaws.com/sports-star.rss",
 // ];
+ 
